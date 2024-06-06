@@ -13,17 +13,24 @@ This experience taught me the importance of efficient computational techniques a
 Among the various subfields of bioinformatics, transcriptomics captured my interest early on. Transcriptomics, the study of RNA transcripts produced by the genome, provides insights into gene expression patterns and regulatory mechanisms. By analyzing transcriptomic data, we can understand how genes are turned on or off in different conditions, tissues, or stages of development.
 
 ### My work in transcriptomics often involves:
-##### RNA-Seq Data Analysis: Using high-throughput sequencing data to quantify gene expression levels and identify differentially expressed genes.
+##### RNA-Seq Data Analysis
+Using high-throughput sequencing data to quantify gene expression levels and identify differentially expressed genes.
 
-##### Gene Expression Profiling: Creating profiles of gene expression under various conditions to understand biological responses and disease mechanisms.
+##### Gene Expression Profiling
+Creating profiles of gene expression under various conditions to understand biological responses and disease mechanisms.
 
-##### Pathway Analysis: Investigating biological pathways and networks to uncover the functional implications of gene expression changes.
+##### Pathway Analysis
+Investigating biological pathways and networks to uncover the functional implications of gene expression changes.
 
 My passion for oncology further deepened my commitment to bioinformatics. By focusing on oncological bioinformatics, I aim to contribute to the understanding of cancer biology and the development of novel therapeutic strategies through:
+##### Cancer Genomics
+Analyzing genomic alterations in cancer cells, such as mutations, copy number variations, and structural variations.
 
-##### Cancer Genomics: Analyzing genomic alterations in cancer cells, such as mutations, copy number variations, and structural variations.
-##### Tumor Transcriptomics: Studying the transcriptomic landscape of tumors to identify biomarkers and potential drug targets.
-##### Clinical Bioinformatics: Collaborating with clinicians to translate bioinformatics findings into clinical applications, such as personalized medicine and targeted therapies.<br/>
+##### Tumor Transcriptomics
+Studying the transcriptomic landscape of tumors to identify biomarkers and potential drug targets.
+
+##### Clinical Bioinformatics
+Collaborating with clinicians to translate bioinformatics findings into clinical applications, such as personalized medicine and targeted therapies.<br/>
 
 ## Continuous Learning and Collaboration
 💭 The field of bioinformatics is constantly evolving, with new techniques and technologies emerging regularly. Staying updated with the latest developments is crucial, and I dedicate time to continuous learning through courses, workshops, and conferences. I’m particularly excited about the advancements in machine learning and its applications in bioinformatics, as they hold immense potential for uncovering new biological insights.<br/>
