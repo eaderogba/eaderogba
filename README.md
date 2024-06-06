@@ -33,7 +33,7 @@ Studying the transcriptomic landscape of tumors to identify biomarkers and poten
 Collaborating with clinicians to translate bioinformatics findings into clinical applications, such as personalized medicine and targeted therapies.<br/>
 
 ## Continuous Learning and Collaboration
-💭 The field of bioinformatics is constantly evolving, with new techniques and technologies emerging regularly. Staying updated with the latest developments is crucial, and I dedicate time to continuous learning through courses, workshops, and conferences. I’m particularly excited about the advancements in machine learning and its applications in bioinformatics, as they hold immense potential for uncovering new biological insights.<br/>
+💭The field of bioinformatics is constantly evolving, with new techniques and technologies emerging regularly. Staying updated with the latest developments is crucial, and I dedicate time to continuous learning through courses, workshops, and conferences. I’m particularly excited about the advancements in machine learning and its applications in bioinformatics, as they hold immense potential for uncovering new biological insights.<br/>
 ---
 
 ### 🧰 Languages and Tools
@@ -59,8 +59,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-plain.svg" />
           
 <br />
-
-#
 
 ### 📊 Stats
 
