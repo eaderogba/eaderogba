@@ -1,11 +1,28 @@
-<!-- Level 3: Add custom code -->
+# 👋 Adebowale Adebowale
 
-# 👋 Hi, I'm Adebowale from Nigeria!
-👩🏻‍💻 A Bioinformatics Analyst sharing about my journey and learnings in the field of Computaional Biology and Bioinformatics<br/>
-👩🏻‍🎓 Studied [Public Health Biotechnology](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Ibadan, Nigeriad<br/>
-🎨 Making videos about Bioinformatics, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuangxxxx)<br/>
-🌷 #learninginpublic in my [digital garden](https://eaderogbba.com/)<br/>
-💭 Currently learning about Machine Learning and [AI](https://pudding.cool/2018/08/pockets/xxx)!<br/>
+**`Bioinformatics Analyst (Developer/Filmmaker/Creator)`**
+
+👩🏻‍💻 Sharing about my journey and learnings as I combine biology, computer science, and information technology to analyze and interpret biological data<br/>
+👩🏻‍🎓 Studied [Public Health Biotechnology at the University of Ibadan, Nigeriad<br/>
+🌷 #learninginpublic in my [digital garden](https://github.com/eaderogba/)<br/>
+💭 The field of bioinformatics is constantly evolving, with new techniques and technologies emerging regularly. Staying updated with the latest developments is crucial, and I dedicate time to continuous learning through courses, workshops, and conferences. I’m particularly excited about the advancements in machine learning and its applications in bioinformatics, as they hold immense potential for uncovering new biological insights.<br/>
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="RStudio" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+
+#
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
