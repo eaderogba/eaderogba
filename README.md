@@ -1,10 +1,31 @@
-# 👋 Adebowale Adebowale
+# Hey There!👋
+# My name is Adebowale
 
-**`Bioinformatics Analyst (Developer/Filmmaker/Creator)`**
+**`A Bioinformatics Analyst`**
 
-👩🏻‍💻 Sharing about my journey and learnings as I combine biology, computer science, and information technology to analyze and interpret biological data<br/>
-👩🏻‍🎓 Studied [Public Health Biotechnology at the University of Ibadan, Nigeriad<br/>
-🌷 #learninginpublic in my [digital garden](https://github.com/eaderogba/)<br/>
+👩🏻‍💻 My fascination with the natural world led me to pursue a degree in Microbiology, where I was captivated by the intricacies of genetic codes and cellular processes. I began my coding journey as a freshly knit Microbiology graduate, eager to dive into the programming world (I like hard things). I immersed myself in code, Python for starters, teaching myself essential concepts with absolutely no end-goal application for my learning (LOL).
+
+My programming journey took a right turn when I discovered bioinformatics, an interdisciplinary field that perfectly blended my passions for biology and programming. I soon realized that modern biological research often involved overwhelming amounts of data that required sophisticated analysis techniques. To bridge my interests, I pursued courseworks (Master's in Public Health Biotechnology) and training in bioinformatics, learning essential programming languages such as Linux/Bash and R, in addition to Python, which are pivotal for data analysis in this field.
+
+This experience taught me the importance of efficient computational techniques and the power of automation in handling vast amounts of data.
+
+## Specializing in Transcriptomics and Oncology
+Among the various subfields of bioinformatics, transcriptomics captured my interest early on. Transcriptomics, the study of RNA transcripts produced by the genome, provides insights into gene expression patterns and regulatory mechanisms. By analyzing transcriptomic data, I can understand how genes are turned on or off in different conditions, tissues, or stages of development.
+
+### My work in transcriptomics often involves:
+##### RNA-Seq Data Analysis: Using high-throughput sequencing data to quantify gene expression levels and identify differentially expressed genes.
+
+##### Gene Expression Profiling: Creating profiles of gene expression under various conditions to understand biological responses and disease mechanisms.
+
+##### Pathway Analysis: Investigating biological pathways and networks to uncover the functional implications of gene expression changes.
+
+My passion for oncology further deepened my commitment to bioinformatics. Cancer, a disease characterized by uncontrolled cell growth, involves complex genetic and epigenetic alterations. By focusing on oncological bioinformatics, I aim to contribute to the understanding of cancer biology and the development of novel therapeutic strategies through:
+
+##### Cancer Genomics: Analyzing genomic alterations in cancer cells, such as mutations, copy number variations, and structural variations.
+##### Tumor Transcriptomics: Studying the transcriptomic landscape of tumors to identify biomarkers and potential drug targets.
+##### Clinical Bioinformatics: Collaborating with clinicians to translate bioinformatics findings into clinical applications, such as personalized medicine and targeted therapies.<br/>
+
+## Continuous Learning and Collaboration
 💭 The field of bioinformatics is constantly evolving, with new techniques and technologies emerging regularly. Staying updated with the latest developments is crucial, and I dedicate time to continuous learning through courses, workshops, and conferences. I’m particularly excited about the advancements in machine learning and its applications in bioinformatics, as they hold immense potential for uncovering new biological insights.<br/>
 
 ---
@@ -12,47 +33,39 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 <img align="left" alt="RStudio" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+<img align="left" alt="Unix" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />      
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="vscode" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="SPSS" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-plain.svg" />
+          
 <br />
 
 #
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+### 📊 Stats
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Adebowale's GitHub stats](https://github-readme-stats.vercel.app/api?username=eaderogba&show_icons=true&theme=gruvbox)
 
-# 💻 Featured YouTube Videos
-<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
-<!-- BEGIN YOUTUBE-CARDS -->
-[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
-[![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Tips+and+advice+for+Computer+Science+students&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Tips and advice for Computer Science students")](https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX)
-[![My Computer Science degree in 13 minutes](https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=My+Computer+Science+degree+in+13+minutes&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "My Computer Science degree in 13 minutes")](https://youtu.be/Dd_4zfmY-aA?si=1AhwiUIamfs6clV3)
-[![How I would learn to code (if I could start over)](https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
-[![How to prep for CS?](https://ytcards.demolab.com/?id=YBMf2o2MVDg&title=How+to+prep+for+CS?+Do+I+need+Maths?&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "How to prep for CS? Do I need Maths?")](https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD)
-[![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How I organise my life with Notion")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7)
-<!-- END YOUTUBE-CARDS -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=eaderogbat&theme=gruvbox&border_radius=4.5) -->
+
+#
+<!--
+<details>
+ <summary><h3>👨‍💻 Adebowale's Coding Journey</h3></summary>
+   
+
+-->
