@@ -3,14 +3,14 @@
 
 **`A Bioinformatics Analyst`**
 
-👩🏻‍💻 I began my coding journey as a freshly knit Microbiology graduate, eager to dive into the programming world (I like hard things). I immersed myself in code, Python for starters, teaching myself essential concepts with absolutely no end-goal application for my learning (LOL).
+👩🏻‍💻 I began my coding journey as a freshly knit Microbiology graduate, eager to dive into the programming world (I like hard things). I immersed myself in code, Python for starters, teaching myself essential concepts with absolutely no end-goal application for my learning (LOL). My programming journey took a right turn when I discovered bioinformatics, an interdisciplinary field that perfectly blended my passions for biology and programming.
 
-My programming journey took a right turn when I discovered bioinformatics, an interdisciplinary field that perfectly blended my passions for biology and programming. To bridge my interests, I pursued courseworks (Master's in Public Health Biotechnology) and training in bioinformatics, learning essential programming languages such as Linux/Bash and R, in addition to Python, which are pivotal for data analysis in this field.
+To bridge my interests, I pursued courseworks (Master's in Public Health Biotechnology) and training in bioinformatics, learning essential programming languages such as Linux/Bash and R, in addition to Python, which are pivotal for data analysis in this field.
 
 This experience taught me the importance of efficient computational techniques and the power of automation in handling vast amounts of data.
 
-## Specializing in Transcriptomics and Oncology
-Among the various subfields of bioinformatics, transcriptomics captured my interest early on. Transcriptomics, the study of RNA transcripts produced by the genome, provides insights into gene expression patterns and regulatory mechanisms. By analyzing transcriptomic data, we can understand how genes are turned on or off in different conditions, tissues, or stages of development.
+## Specialising in Transcriptomics and Oncology
+Among the various subfields of bioinformatics, transcriptomics captured my interest early on.
 
 ### My work in transcriptomics often involves:
 ##### RNA-Seq Data Analysis
