@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Adebowale Aderogba from Nigeria<br><br>- 🔭 I’m working as a Bioinformatics Analyst<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I love to relax with cool music and read</p>
 
 ###
 
