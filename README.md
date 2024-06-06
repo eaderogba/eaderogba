@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Adebowale Aderogba from Nigeria<br><br>- 🔭 I’m working as a Bioinformatics Analyst<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I love to relax with cool music and read</p>
+<p align="left">I'm Adebowale Aderogba, a Bioinformatics Analyst from Nigeria. I studied Public Health Biotechnology at the University of Ibadan<br><br>- 🔭  I enjoy turning complex biological data into meaningful insights and contributing to the advancement of scientific research.<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I love to relax with cool music and read</p>
 
 ###
 
@@ -52,6 +52,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
+
+###
+
+<h3 align="left">🛠 Skills</h3>
+
+###
 
 ###
 
