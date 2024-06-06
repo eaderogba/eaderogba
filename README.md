@@ -21,8 +21,9 @@ Creating profiles of gene expression under various conditions to understand biol
 
 ##### Pathway Analysis
 Investigating biological pathways and networks to uncover the functional implications of gene expression changes.
-
+#
 My passion for oncology further deepened my commitment to bioinformatics. By focusing on oncological bioinformatics, I aim to contribute to the understanding of cancer biology and the development of novel therapeutic strategies through:
+
 ##### Cancer Genomics
 Analyzing genomic alterations in cancer cells, such as mutations, copy number variations, and structural variations.
 
