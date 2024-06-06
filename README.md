@@ -35,6 +35,7 @@ Collaborating with clinicians to translate bioinformatics findings into clinical
 
 ## Continuous Learning and Collaboration
 💭The field of bioinformatics is constantly evolving, with new techniques and technologies emerging regularly. Staying updated with the latest developments is crucial, and I dedicate time to continuous learning through courses, workshops, and conferences. I’m particularly excited about the advancements in machine learning and its applications in bioinformatics, as they hold immense potential for uncovering new biological insights.<br/>
+
 ---
 
 ### 🧰 Languages and Tools
