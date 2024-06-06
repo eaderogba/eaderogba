@@ -3,14 +3,14 @@
 
 **`A Bioinformatics Analyst`**
 
-👩🏻‍💻 My fascination with the natural world led me to pursue a degree in Microbiology, where I was captivated by the intricacies of genetic codes and cellular processes. I began my coding journey as a freshly knit Microbiology graduate, eager to dive into the programming world (I like hard things). I immersed myself in code, Python for starters, teaching myself essential concepts with absolutely no end-goal application for my learning (LOL).
+👩🏻‍💻 I began my coding journey as a freshly knit Microbiology graduate, eager to dive into the programming world (I like hard things). I immersed myself in code, Python for starters, teaching myself essential concepts with absolutely no end-goal application for my learning (LOL).
 
-My programming journey took a right turn when I discovered bioinformatics, an interdisciplinary field that perfectly blended my passions for biology and programming. I soon realized that modern biological research often involved overwhelming amounts of data that required sophisticated analysis techniques. To bridge my interests, I pursued courseworks (Master's in Public Health Biotechnology) and training in bioinformatics, learning essential programming languages such as Linux/Bash and R, in addition to Python, which are pivotal for data analysis in this field.
+My programming journey took a right turn when I discovered bioinformatics, an interdisciplinary field that perfectly blended my passions for biology and programming. To bridge my interests, I pursued courseworks (Master's in Public Health Biotechnology) and training in bioinformatics, learning essential programming languages such as Linux/Bash and R, in addition to Python, which are pivotal for data analysis in this field.
 
 This experience taught me the importance of efficient computational techniques and the power of automation in handling vast amounts of data.
 
 ## Specializing in Transcriptomics and Oncology
-Among the various subfields of bioinformatics, transcriptomics captured my interest early on. Transcriptomics, the study of RNA transcripts produced by the genome, provides insights into gene expression patterns and regulatory mechanisms. By analyzing transcriptomic data, I can understand how genes are turned on or off in different conditions, tissues, or stages of development.
+Among the various subfields of bioinformatics, transcriptomics captured my interest early on. Transcriptomics, the study of RNA transcripts produced by the genome, provides insights into gene expression patterns and regulatory mechanisms. By analyzing transcriptomic data, we can understand how genes are turned on or off in different conditions, tissues, or stages of development.
 
 ### My work in transcriptomics often involves:
 ##### RNA-Seq Data Analysis: Using high-throughput sequencing data to quantify gene expression levels and identify differentially expressed genes.
@@ -19,7 +19,7 @@ Among the various subfields of bioinformatics, transcriptomics captured my inter
 
 ##### Pathway Analysis: Investigating biological pathways and networks to uncover the functional implications of gene expression changes.
 
-My passion for oncology further deepened my commitment to bioinformatics. Cancer, a disease characterized by uncontrolled cell growth, involves complex genetic and epigenetic alterations. By focusing on oncological bioinformatics, I aim to contribute to the understanding of cancer biology and the development of novel therapeutic strategies through:
+My passion for oncology further deepened my commitment to bioinformatics. By focusing on oncological bioinformatics, I aim to contribute to the understanding of cancer biology and the development of novel therapeutic strategies through:
 
 ##### Cancer Genomics: Analyzing genomic alterations in cancer cells, such as mutations, copy number variations, and structural variations.
 ##### Tumor Transcriptomics: Studying the transcriptomic landscape of tumors to identify biomarkers and potential drug targets.
@@ -27,7 +27,6 @@ My passion for oncology further deepened my commitment to bioinformatics. Cancer
 
 ## Continuous Learning and Collaboration
 💭 The field of bioinformatics is constantly evolving, with new techniques and technologies emerging regularly. Staying updated with the latest developments is crucial, and I dedicate time to continuous learning through courses, workshops, and conferences. I’m particularly excited about the advancements in machine learning and its applications in bioinformatics, as they hold immense potential for uncovering new biological insights.<br/>
-
 ---
 
 ### 🧰 Languages and Tools
