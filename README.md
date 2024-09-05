@@ -1,7 +1,7 @@
 # Hi, I'm Adebowale <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-🎓 I am a **Machine Learning/Software Engineer**, **Computational Biologist**, and **Artificial Neural Network (ANN) Enthusiast**.
+🎓 I am a **Machine Learning/Software Engineer**, **Computational Biologist**, and **Artificial Neural Networks (ANN) Enthusiast**.
 
 🌱 I am currently building **Cribblr** to address Nigeria's housing and rental issues.
 
