@@ -1,13 +1,13 @@
 # Hi, I'm Adebowale <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-🎓 I am a **Machine Learning/Software Engineer**, **Computational Biologist**, and **Artificial Neural Networks (ANN) Enthusiast**.
+🎓 I am a **AI/ML/Software Engineer**.
 
-🌱 I am currently building **Cribblr** to address Nigeria's housing and rental issues.
+🌱 I am currently building **CribblrAI** to help businesses integrate AI into their workflow.
 
-🎯 My Goal is to **Build, Ship Fast, and Iterate**.
+🎯 I am big on **Build, Ship Fast, and Iterate**.
 
-✨ I am actively seeking new **opportunities** and I'm open to exploring various options particulary in the field of **Artificial Intelligence**.
+✨ I am open to new **opportunities** and I'm open to exploring various options particulary in the field of **Artificial Intelligence**.
 
 📫 You can reach me on: [Github](https://github.com/eaderogba) [LinkedIn](https://www.linkedin.com/in/adebowaleaderogba/) [X\Twitter](https://www.x.com/CNeuralMind)
 
