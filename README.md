@@ -9,7 +9,7 @@
 
 ✨ I am open to new **opportunities** and I'm open to exploring various options particulary in the field of **Artificial Intelligence**.
 
-📫 You can reach me on: [Github](https://github.com/eaderogba) [LinkedIn](https://www.linkedin.com/in/adebowaleaderogba/) [X\Twitter](https://www.x.com/CNeuralMind)
+📫 You can reach me on: [Github](https://github.com/eaderogba) [LinkedIn](https://www.linkedin.com/in/adebowaleaderogba/) [X\Twitter](https://www.x.com/BigSmoke__co)
 
 ### Technical Details
 | Technology | Tools |
