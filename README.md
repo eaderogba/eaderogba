@@ -3,7 +3,7 @@
 
 🎓 I am an **AI Engineer**.
 
-🌱 I currently work at **CribblrAI LTD Technologies** wheren I help businesses build and seamlessly integrate AI tools into their workflow.
+🌱 I currently work at **CribblrAI LTD Technologies** where I help businesses build and seamlessly integrate AI tools into their workflow.
 
 🎯 I am big on **Build, Ship Fast, and Iterate**.
 
