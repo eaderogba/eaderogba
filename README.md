@@ -1,24 +1,24 @@
 # Hi, I'm Adebowale <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-🎓 I am a **AI/ML/Software Engineer**.
+🎓 I am an **AI Engineer**.
 
-🌱 I am currently building **CribblrAI** to help businesses integrate AI into their workflow.
+🌱 I currently work at **CribblrAI LTD Technologies** wheren I help businesses build and seamlessly integrate AI tools into their workflow.
 
 🎯 I am big on **Build, Ship Fast, and Iterate**.
 
-✨ I am open to new **opportunities** and I'm open to exploring various options particulary in the field of **Artificial Intelligence**.
+✨ I am open to new **opportunities** and exploring various options particulary in the field of **Artificial Intelligence**.
 
-📫 You can reach me on: [Github](https://github.com/eaderogba) [LinkedIn](https://www.linkedin.com/in/adebowaleaderogba/) [X\Twitter](https://www.x.com/BigSmoke__co)
+📫 You can reach me on: [Github](https://github.com/eaderogba) [LinkedIn](https://www.linkedin.com/in/adebowaleaderogba/) [X\Twitter](https://www.x.com/d3b0wale)
 
 ### Technical Details
 | Technology | Tools |
 | -------------| ------------- |
 |*Languages* | Python, Javascript, C, R |
 |*Frontend*| React.js, Next.js, TailwindCSS|
-|*Backend*| Node.js, Express.js, Nest.js, FastApi, Django|
-|*Tools*| AWS, Docker, VSCode, Unix/Linux |
-|*Databases*| MongoDB, MySQL, Postgresql, Firebase, Redis |
+|*Backend*| FastApi, Django, Node.js, Express.js|
+|*Tools*| Docker, VSCode, Unix/Linux, AWS |
+|*Databases*| Postgresql, MySQL Redis, MongoDB, Firebase |
 |*Machine Learning*| Tensorflow, Keras, PyTorch, Numpy, Pandas |
 
 
